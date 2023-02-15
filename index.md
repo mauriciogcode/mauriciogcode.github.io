@@ -1,5 +1,7 @@
 
-https://github.com/mauriciogcode/Boostrap-CodoACodo/blob/main/index.html
+ <a href="https://github.com/mauriciogcode/Boostrap-CodoACodo/blob/main/index.html">Codo A Codo</a>
+
+ <a href="https://github.io/mauriciogcode/Boostrap-CodoACodo/blob/main/index.html">Codo A Codo</a>
 
 https://github.com/mauriciogcode/Boostrap-CustomHomePage/blob/main/index.html
 
